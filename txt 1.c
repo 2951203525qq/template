@@ -3,6 +3,6 @@
 int main()
 {
   printf("Hello Word !!!");
-  printf("first change the txt.c");
+  printf("first change  txt.c");
 return 0;
 }
